@@ -17,3 +17,7 @@ You've never interested in accessing process virtual memory through NT-Kernel, w
 
 Read: https://www.godeye.club/2021/06/25/001-mmcopyvirtualmemory.html
 Sorry its Japanese :(
+
+# License
+
+MIT copyright Kento Oki \<hrn832@protonmail.com\>
