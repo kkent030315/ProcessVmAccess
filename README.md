@@ -1,2 +1,2 @@
 # ProcessVmAccess
-Two PoC of Accessing Process Virtual Memory via NT Kernel
+Two PoC of accessing process virtual memory via NT Kernel
